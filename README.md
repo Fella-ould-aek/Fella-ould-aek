@@ -7,26 +7,14 @@ Kubernetes · Terraform · Ansible · ArgoCD · GitLab CI/CD · AWS
 
 </div>
 
-### About Me
+## About Me
 I didn't plan to become a DevOps engineer.
 I started as a Telecom & ICT student ,networking, protocols, systems. But curiosity took over. I discovered a world where you don't just write code ,you build the entire machine that runs it, monitors it, and delivers it automatically. I was hooked.
 What I love most about DevOps is that it sits at the intersection of everything: development, operations, cloud, automation. There's no ceiling, and that suits me perfectly.
 
----
-### currently
+## currently
 - I build real infrastructure. I break it on purpose. I document everything.
 - Always reading, always breaking things, always learning 🚀
-
----
-## Projects
-
-🚀 **[Self-Managed Kubernetes Cluster — Full DevOps Pipeline](#)**
-Terraform · Ansible · kubeadm · ArgoCD · GitLab CI/CD · Prometheus · Grafana
-
-⚙️ **[Application Deployment on AWS EC2](#)**
-Terraform · CI/CD Pipeline · Docker · AWS
-
----
 
 If you're building something interesting and need someone who will dig deep, break things on purpose to understand them, and not give up until it works, let's talk.
 
