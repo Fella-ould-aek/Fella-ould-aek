@@ -1,6 +1,6 @@
 ## Hi there 👋,I'm Fella!
 
-<div align="center">
+<div >
 
 DevOps & Cloud Engineer
 Kubernetes · Terraform · Ansible · ArgoCD · GitLab CI/CD · AWS
