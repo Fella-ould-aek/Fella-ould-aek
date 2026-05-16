@@ -1,16 +1,39 @@
-## Hi there 👋
+## Hi there 👋,I'm Fella!
 
-<!--
-**Fella-ould-aek/Fella-ould-aek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+DevOps & Cloud Engineer
+Kubernetes · Terraform · Ansible · ArgoCD · GitLab CI/CD · AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+### About Me
+I didn't plan to become a DevOps engineer.
+I started as a Telecom & ICT student ,networking, protocols, systems. But curiosity took over. I discovered a world where you don't just write code ,you build the entire machine that runs it, monitors it, and delivers it automatically. I was hooked.
+What I love most about DevOps is that it sits at the intersection of everything: development, operations, cloud, automation. There's no ceiling, and that suits me perfectly.
+
+---
+### currently
+- I build real infrastructure. I break it on purpose. I document everything.
+- Always reading, always breaking things, always learning 🚀
+
+---
+## Projects
+
+🚀 **[Self-Managed Kubernetes Cluster — Full DevOps Pipeline](#)**
+Terraform · Ansible · kubeadm · ArgoCD · GitLab CI/CD · Prometheus · Grafana
+
+⚙️ **[Application Deployment on AWS EC2](#)**
+Terraform · CI/CD Pipeline · Docker · AWS
+
+---
+
+If you're building something interesting and need someone who will dig deep, break things on purpose to understand them, and not give up until it works, let's talk.
+
+## Tools & Technologies
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,terraform,ansible,aws,linux,bash,git,gitlab,prometheus,grafana&perrow=6)](https://skillicons.dev)
+
+</div>
