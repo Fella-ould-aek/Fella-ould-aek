@@ -59,15 +59,6 @@ Deploying applications manually means inconsistent environments and human error.
 🔗 [View Repository](https://github.com/Fella-ould-aek/devops-mern-cicd-pipeline)
 
 ---
-
-## Tech Stack
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,terraform,ansible,aws,linux,bash,git,gitlab,prometheus,grafana&perrow=6)](https://skillicons.dev)
-
-
-
 <div align="center">
 
 *Telecommunications & networking Engineer · Algeria*
