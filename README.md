@@ -75,6 +75,6 @@ Deploying applications manually means inconsistent environments and human error.
 
 **If you're hiring for DevOps or Cloud roles, let's connect.**
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fella-ould-abdelkader-45a80b256)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fella-ould-abdelkader-45a80b256)
 
 </div>
